@@ -1,2 +1,2 @@
 # UACBypass
-Elevate Process Without UAC Notification As User Process
+Elevate Processes Without UAC Notification With Standard User Privileges
