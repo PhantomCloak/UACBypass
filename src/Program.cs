@@ -14,7 +14,7 @@ namespace UACBypass
         static void Main(string[] args)
         {
             bool oldMethod = true;
-            Console.WriteLine("Path To Elevate : ");
+            Console.Write("Path To Elevate : ");
             string path_to_elevate = Console.ReadLine();
 
             if(oldMethod)
